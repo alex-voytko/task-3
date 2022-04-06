@@ -1,0 +1,16 @@
+{
+  "name": "3-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "alex-voytko",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "sha3": "^2.1.4"
+  }
+}
